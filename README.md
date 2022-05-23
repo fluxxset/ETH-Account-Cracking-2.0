@@ -1,2 +1,2 @@
-# eth_cracking_2.0
+# ETH Account Cracking 2.0
 this script dose not use any api
