@@ -20,7 +20,6 @@
 
 
 
-- follow this process for cloud 
 
 `ssh root@your_public_ip`
 
