@@ -7,7 +7,15 @@
 ![](https://iili.io/XfE9aa.gif)
 
 # Running in local
-ff
+
+`git clone [https://github.com/fluxx03/Brutforcing-Metamask-seed.git](https://github.com/fluxx03/ETH-Account-Cracking-2.0.git)`
+
+`cd ETH-Account-Cracking-2.0`
+
+`pip install -r requirements.txt`
+
+`python3 eth_crack.py 10`
+
 # Deploy on cloud
 
 
