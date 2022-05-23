@@ -4,4 +4,4 @@
 -works with windows as well as Linux ( python3 installtion requried ).
 
 # Working
-![](https://freeimage.host/i/XfE9aa)
+![](https://imgur.com/a/SWOwjID)
