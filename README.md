@@ -8,7 +8,7 @@
 
 # Running in local
 
-`git clone [https://github.com/fluxx03/Brutforcing-Metamask-seed.git](https://github.com/fluxx03/ETH-Account-Cracking-2.0.git)`
+`git clone https://github.com/fluxx03/ETH-Account-Cracking-2.0.git`
 
 `cd ETH-Account-Cracking-2.0`
 
@@ -29,7 +29,7 @@
 
 `sudo apt install python3-pip -y`
 
-`git clone [https://github.com/fluxx03/Brutforcing-Metamask-seed.git](https://github.com/fluxx03/ETH-Account-Cracking-2.0.git)`
+`git clone https://github.com/fluxx03/ETH-Account-Cracking-2.0.git`
 
 `cd ETH-Account-Cracking-2.0`
 
