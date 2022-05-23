@@ -6,10 +6,32 @@
 # Working
 ![](https://iili.io/XfE9aa.gif)
 
+# Running in local
+ff
+# Deploy on cloud
 
 
 
+- follow this process for cloud 
 
+`ssh root@your_public_ip`
+
+`sudo apt update`
+
+`sudo apt upgrade`
+
+`sudo apt install python3-pip -y`
+
+`git clone [https://github.com/fluxx03/Brutforcing-Metamask-seed.git](https://github.com/fluxx03/ETH-Account-Cracking-2.0.git)`
+
+`cd ETH-Account-Cracking-2.0`
+
+`pip install -r requirements.txt`
+
+`nohup python3 eth_crack.py 10 &`
+
+
+all found accounts will be added in valid.txt file
 
 
 
