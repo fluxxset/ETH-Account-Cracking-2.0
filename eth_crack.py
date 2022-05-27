@@ -28,7 +28,7 @@ def readdr():
     )
     bip44_hdwallet.from_path(path=bip44_derivation)
 
-    bip44_hdwallet.clean_derivation()
+    #bip44_hdwallet.clean_derivation()
     return bip44_hdwallet.mnemonic(),bip44_hdwallet.address()
 #0x1fd489fb3d71223a647fbf8a36cc2ff4f2e4bea6
 def xBal(addr):
