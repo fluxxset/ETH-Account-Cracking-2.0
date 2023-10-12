@@ -10,7 +10,7 @@
 
 ---- https://youtu.be/aLS4mlKMYjc ----
 
-`git clone https://github.com/fluxx03/ETH-Account-Cracking-2.0.git`
+`git clone https://github.com/fluxxset/ETH-Account-Cracking-2.0.git`
 
 `cd ETH-Account-Cracking-2.0`
 
@@ -31,7 +31,7 @@
 
 `sudo apt install python3-pip -y`
 
-`git clone https://github.com/fluxx03/ETH-Account-Cracking-2.0.git`
+`git clone https://github.com/fluxxset/ETH-Account-Cracking-2.0.git`
 
 `cd ETH-Account-Cracking-2.0`
 
